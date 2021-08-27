@@ -1,5 +1,6 @@
-Development of Web Apps
+Development of Web Apps(alernative)
 Repository
 Git (main)
+Git (alternative)
 Markdown
-Merge (main)
+Merge(main)
