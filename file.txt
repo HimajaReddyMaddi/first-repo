@@ -1,5 +1,5 @@
-Development of Web Apps
+Development of Web Apps (alternative)
 Repository
-Git
+Git (alternative)
 Markdown
 Merge
