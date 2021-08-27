@@ -1,5 +1,5 @@
 Development of Web Apps
 Repository
-Git
+Git (main)
 Markdown
-Merge
+Merge (main)
